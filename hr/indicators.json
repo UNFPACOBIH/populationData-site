@@ -950,20 +950,4 @@
           "status": "complete"
         }]
     }
-  },
-  {
-    "goal": {
-      "id": "10",
-      "title": "global_goals.10-title",
-      "indicators": [
-        
-        {
-          "id": "10-1-1",
-          "title": "global_indicators.10-1-1-title",
-          "description": "",
-          "keywords": "",
-          "href": "/populationData-site/hr/10-1-1",
-          "status": "complete"
-        }]
-    }
   }]
